@@ -6,6 +6,7 @@ The ComboBox updates it contents if you type something that is a match within th
 I added a Test project that adds 100.000 rows and it seems fast enough. I tested with 1.000.000 and it was too slow.
 
 Known issues:
+
 -When typing a backspace, it always deletes the last character. That is ofcourse not always the case.
 -Getting the current selected text etc is not working
 
